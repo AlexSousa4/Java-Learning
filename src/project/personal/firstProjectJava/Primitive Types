@@ -1,0 +1,11 @@
+// 6 tipos primitivos sendo eles representando valores numericos
+// 4 deles representam valores inteiros (byte, short, int, long)
+//  byte 1
+//  short 2
+//  int 4
+//  long 8
+//  2 deles representam numeros com pontos flutuantes são:
+//  float - 4
+//  double - 8
+//  qualquer literal com ponto flutuante sera do tipo double
+//  e qualquer literal inteiro será do tipo int

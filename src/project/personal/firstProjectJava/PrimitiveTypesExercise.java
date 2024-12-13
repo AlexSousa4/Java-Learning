@@ -1,4 +1,4 @@
-package project.personal.primeiroprojetojava;
+package project.personal.firstProjectJava;
 /**
     Create variables for the fields described below <> and print the message:
  Me 'nome', living in the street 'address', confirm that I received the salary worth 'salary' on the day 'date'
