@@ -33,6 +33,7 @@ public class PrimitiveTypes {
                 "the execution flow of the program. for example: "+ character);
         System.out.println(specification);
 
+
         //Another Example
 
         byte yearsOfCompany = 23;
