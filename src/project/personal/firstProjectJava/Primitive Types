@@ -1,3 +1,5 @@
+    Portugues
+
 // 6 tipos primitivos sendo eles representando valores numericos
 // 4 deles representam valores inteiros (byte, short, int, long)
 //  byte 1
@@ -9,3 +11,18 @@
 //  double - 8
 //  qualquer literal com ponto flutuante sera do tipo double
 //  e qualquer literal inteiro será do tipo int
+
+
+        English
+
+// 6 primitive types representing numeric values
+// 4 of them represent integer values (byte, short, int, long)
+//byte 1
+// short 2
+//int 4
+// long 8
+// 2 of them represent floating point numbers:
+// float - 4
+// double - 8
+// any floating point literal will be of type double
+// and any integer literal will be of type int
