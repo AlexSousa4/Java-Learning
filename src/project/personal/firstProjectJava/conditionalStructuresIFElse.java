@@ -1,6 +1,6 @@
 package project.personal.firstProjectJava;
 
-public class conditionalStructures {
+public class conditionalStructuresIFElse {
     public static void main(String[] args) {
         /** IF, ELSE AND ELSE IF*/
 

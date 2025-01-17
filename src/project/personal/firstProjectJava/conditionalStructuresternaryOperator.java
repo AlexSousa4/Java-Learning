@@ -1,6 +1,6 @@
 package project.personal.firstProjectJava;
 
-public class ternaryOperator {
+public class conditionalStructuresternaryOperator {
     public static void main(String[] args) {
         //Donate if salary > 5000
         double salary = 6000;

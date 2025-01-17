@@ -1,6 +1,6 @@
 package project.personal.firstProjectJava;
 
-public class temperature {
+public class temperatureExercise {
     public static void main(String[] args) {
         // (°F - 32) x 5/9 = C°)
 

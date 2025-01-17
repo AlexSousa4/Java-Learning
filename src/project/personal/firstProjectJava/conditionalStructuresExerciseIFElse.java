@@ -1,6 +1,6 @@
 package project.personal.firstProjectJava;
 
-public class conditionalStructuresExercise {
+public class conditionalStructuresExerciseIFElse {
     public static void main(String[] args) {
         //I Want to Know how much I have to pay in the Netherlands 2020 base on my annual salary
         //€0        €34,712        9.70%
