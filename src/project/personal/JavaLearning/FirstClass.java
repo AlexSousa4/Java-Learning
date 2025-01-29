@@ -1,4 +1,4 @@
-package project.personal.firstProjectJava;
+package project.personal.JavaLearning;
 /**
  * This is a JavaDOC comment. I can even use HTML <b>Javadoc</b>
  */

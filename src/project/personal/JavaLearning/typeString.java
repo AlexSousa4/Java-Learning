@@ -1,4 +1,4 @@
-package project.personal.firstProjectJava;
+package project.personal.JavaLearning;
 
 public class typeString {
     public static void main(String[] args) {

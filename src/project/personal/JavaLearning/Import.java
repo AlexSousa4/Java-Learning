@@ -1,4 +1,4 @@
-package project.personal.firstProjectJava;
+package project.personal.JavaLearning;
 
 import javax.swing.JButton;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package project.personal.firstProjectJava;
+package project.personal.JavaLearning;
 
 public class conditionalStructuresternaryOperator {
     public static void main(String[] args) {

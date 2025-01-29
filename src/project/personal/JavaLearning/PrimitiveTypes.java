@@ -1,4 +1,4 @@
-package project.personal.firstProjectJava;
+package project.personal.JavaLearning;
 
 public class PrimitiveTypes {
     //using the shortcut, however, depends "psvm"
