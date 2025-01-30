@@ -13,7 +13,7 @@ public class circumferenceArea {
 
         radius = 10;
         area = PI * radius * radius;
-        System.out.println( "Área = " + area + "m2.");
+        System.out.println("Área = " + area + "m2.");
     }
 
 }

@@ -3,7 +3,7 @@ package project.personal.JavaLearning;
 public class PrimitiveVsObject {
     public static void main(String[] args) {
 
-        String s = new String("text");
+        String s = "text";
         s.toUpperCase();
 
         //Wrappers are the object version of types primitives.

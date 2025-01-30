@@ -9,11 +9,11 @@ public class temperatureExercise {
 
         double fahrenheit = 86;
         double celsius = (fahrenheit - adjustment) * factor;
-        System.out.println( fahrenheit + " fahrenheit in degrees is equal to = " + celsius + "C°");
+        System.out.println(fahrenheit + " fahrenheit in degrees is equal to = " + celsius + "C°");
 
         fahrenheit = 24;
         celsius = (fahrenheit - adjustment) * factor;
-        System.out.println( fahrenheit + " fahrenheit in degrees is equal to = " + celsius + "C°");
+        System.out.println(fahrenheit + " fahrenheit in degrees is equal to = " + celsius + "C°");
 
     }
 }

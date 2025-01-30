@@ -14,11 +14,11 @@ public class conditionalStructuresExerciseIFElse {
 
     private static String howMuchTaxesInNetherlands2020(double annualSalary, TaxRates taxRates) {
         double taxesValue;
-        if (annualSalary <= 34712){
+        if (annualSalary <= 34712) {
             taxesValue = annualSalary * taxRates.getFirstTrack();
-        }else if (annualSalary >= 34713 && annualSalary <= 68507){
+        } else if (annualSalary >= 34713 && annualSalary <= 68507) {
             taxesValue = annualSalary * taxRates.getSecondTrack();
-        }else{
+        } else {
             taxesValue = annualSalary * taxRates.getThirdTrack();
         }
         return "Tax Amount: " + taxesValue;

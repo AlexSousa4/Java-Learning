@@ -7,7 +7,8 @@ public class conditionalStructuresternaryOperator {
         String check = checkIfICanDonate(salary);
         System.out.println(check);
     }
-    private static String checkIfICanDonate (double salary) {
+
+    private static String checkIfICanDonate(double salary) {
         String messageDonate = "I will donate 500 to the charity";
         String messageNotDonate = "I don't have conditions to donate";
         // (condition) ? true : false

@@ -11,19 +11,19 @@ public class conditionalStructuresIFElse {
         checkIfCanBuyItem(money, itemValue);
         checkIfAuthorizedToBuyBeer(age);
     }
-    private static void checkIfCanBuyItem(double money, double itemValue){
+
+    private static void checkIfCanBuyItem(double money, double itemValue) {
         if (money >= itemValue) {
             System.out.println("you have the money to buy the item");
-        }
-        else {
+        } else {
             System.out.println("you don't have the money to buy the item");
         }
     }
-    private static void checkIfAuthorizedToBuyBeer(int age){
+
+    private static void checkIfAuthorizedToBuyBeer(int age) {
         if (age >= 21) {
             System.out.println("You are authorized to buy beer.");
-        }
-        else {
+        } else {
             System.out.println("You aren't authorized to buy beer.");
         }
     }

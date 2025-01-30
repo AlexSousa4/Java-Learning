@@ -13,8 +13,8 @@ public class Wrappers {
         Long l = 100000L;
 
         System.out.println(b.byteValue());
-        System.out.println(s.toString());
-        System.out.println(i*3);
+        System.out.println(s);
+        System.out.println(i * 3);
         System.out.println(l / 3);
 
         Float f = 1234.10F;

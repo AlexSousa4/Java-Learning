@@ -10,13 +10,14 @@ public class exerciseConditionStructures {
         String category = checkIfAgeIsCorrect(age);
         System.out.println("Category: " + category);
     }
-    private static String checkIfAgeIsCorrect(int age){
+
+    private static String checkIfAgeIsCorrect(int age) {
         String category;
-        if (age < 15){
+        if (age < 15) {
             category = "Children's Category";
-        }else if (age >= 15 && age < 18){
+        } else if (age >= 15 && age < 18) {
             category = "Youth Category";
-        }else{
+        } else {
             category = "Adult Category";
         }
         return category;

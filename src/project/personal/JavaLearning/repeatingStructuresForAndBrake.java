@@ -1,3 +1,5 @@
+package project.personal.JavaLearning;
+
 public class repeatingStructuresForAndBrake {
     public static void main(String[] args) {
         /*

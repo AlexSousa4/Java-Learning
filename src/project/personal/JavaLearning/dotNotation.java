@@ -3,7 +3,7 @@ package project.personal.JavaLearning;
 public class dotNotation {
     public static void main(String[] args) {
         String s = "Good Morning X";
-        s = s.replace("X","lady");
+        s = s.replace("X", "lady");
         s = s.toUpperCase();
         System.out.println(s);
 
@@ -12,8 +12,8 @@ public class dotNotation {
 
         String y = "Good Afternoon X"
                 .replace("X", "Alex")
-                        .toUpperCase()
-                                .concat("!!!");
+                .toUpperCase()
+                .concat("!!!");
         System.out.println(y);
 
         //PRIMITIVE TYPES DO NOT HAVE THE OPERATOR "."

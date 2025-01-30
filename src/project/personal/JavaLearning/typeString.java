@@ -2,7 +2,7 @@ package project.personal.JavaLearning;
 
 public class typeString {
     public static void main(String[] args) {
-        System.out.println("Have a good weekend".charAt(4));
+        System.out.println(' ');
 
         String s = "Good Afternoon";
         //you can replace the value of S, but not modify
@@ -24,7 +24,7 @@ public class typeString {
 
         String oneMorePhrase = "Name: " + name + "\nSurname: " + surname +
                 "\nAge: " + age +
-                "\nSalary: " + salary +"\n\n";
+                "\nSalary: " + salary + "\n\n";
         System.out.println(oneMorePhrase);
 
         System.out.printf("Mr. %s %s is %d years old and earns R$ %.2f.",
@@ -33,7 +33,6 @@ public class typeString {
         String phrase = String.format("\n\nMr. %s %s is %d years old and earns R$ %.2f.",
                 name, surname, age, salary);
         System.out.println(phrase);
-
 
 
     }

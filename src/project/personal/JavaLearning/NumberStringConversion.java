@@ -1,6 +1,6 @@
 package project.personal.JavaLearning;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class NumberStringConversion {
 
