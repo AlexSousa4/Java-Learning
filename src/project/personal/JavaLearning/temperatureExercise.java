@@ -1,7 +1,9 @@
 package project.personal.JavaLearning;
 
+
 public class temperatureExercise {
     public static void main(String[] args) {
+
         // (°F - 32) x 5/9 = C°)
 
         final double factor = 5 / 9.0;
