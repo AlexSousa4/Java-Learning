@@ -1,4 +1,4 @@
-package project.personal.Introduction.ObjectOrientation.domain;
+package project.personal.Introduction.ObjectOrientation.StudentAndProfessorClasses.domain;
 
 public class Student {
     public String name;
